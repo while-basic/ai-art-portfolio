@@ -1,14 +1,14 @@
 :root {
   --primary-color: #3C5773;
   --secondary-color: #769AB2;
-  --tertiary-color: #9DB2BF;
+  --tertiary-color: #000000;
   --quaternary-color: #DDE6ED;
-  --primary-color-dark: #1F3C5A;
+  --primary-color-dark: #0e3e5f;
   --link-color: var(--secondary-color);
   --font-family: 'Poppins', sans-serif;
   --title-font-family: 'Ubuntu', sans-serif;
   --blog-font-family: 'Roboto', serif;
-  --text-color: #27374D;
+  --text-color: #ffffff;
   --background: var(--quaternary-color);
   --button: var(--secondary-color);
   --button-text: var(--primary-color);
